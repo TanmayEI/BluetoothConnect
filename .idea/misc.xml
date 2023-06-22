@@ -1,0 +1,21 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/EIProject/BluetoothConnect/app/src/main/res/drawable/background_login_rounded.xml" value="0.1655" />
+        <entry key="..\:/EIProject/BluetoothConnect/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/EIProject/BluetoothConnect/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/EIProject/BluetoothConnect/app/src/main/res/layout/activity_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/EIProject/BluetoothConnect/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/EIProject/BluetoothConnect/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
+        <entry key="..\:/EIProject/BluetoothConnect/app/src/main/res/layout/progress_dialog.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
